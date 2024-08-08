@@ -18,7 +18,7 @@ import { CategoriaModule } from './categoria/categoria.module';
       synchronize: true,
     }),
     ProdutoModule,
-    CategoriaModule
+    CategoriaModule,
   ],
   controllers: [],
   providers: [],
